@@ -121,7 +121,10 @@ const Game = () => {
       );
 
       }
+  
+// Winner 
 
+   
       if(winner){
         alert(`Congratulations.. ! ${winner} won the Game !`);window.location.reload();
       }
@@ -163,4 +166,3 @@ export default Game;
 
 
 
-// Tushar Done
